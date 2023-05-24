@@ -19,6 +19,6 @@ With various new and old rules, rate and toll changes, and congestion variance, 
 5. Collect runtimes and RMSE at each step and visualize improvements.
 
 
-In order to give a potential user an accurate prediction of their trip's fare, the error needs to be improved. We take a look at a previous Kaggle competition[^1] to test out some of the topics covered in the Advanced Python course. Our findings are contained in the [Final Presentation slides.](https://github.com/gcalbertini/pyCV/blob/main/Final%20Presentation.pptx)
+In order to give a potential user an accurate prediction of their trip's fare, the error needs to be improved. We take a look at a previous Kaggle competition[^1] to test out some of the topics covered in the Advanced Python course. Our findings are contained in the [Final Presentation slides.](https://github.com/gcalbertini/advanced_python_project_nyu/blob/main/Final%20Presentation.pdf)
 
 [^1]: https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/overview
